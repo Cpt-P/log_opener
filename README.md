@@ -1,8 +1,8 @@
 ![icon](icons/icon.png)
 
 [![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red)](https://github.com/Cpt-P/log_opener)
-[![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue)](https://www.python.org/)
-[![Made with Batch](https://img.shields.io/badge/Made%20with-Batch-brightgreen)](https://en.wikipedia.org/wiki/Batch_file)
+[![Coded in Python](https://img.shields.io/badge/Coded%20in-Python-blue)](https://www.python.org/)
+[![Coded in Batch](https://img.shields.io/badge/Coded%20in-Batch-brightgreen)](https://en.wikipedia.org/wiki/Batch_file)
 
 Disclaimer: This custom utility, referred to as log_opener, is an independent creation and is not associated with, endorsed by, or sponsored by SKLauncher or its developers. SKLauncher is a product of skmedix.pl. This utility is a fan-made addition that leverages SKLauncher as a base/dependency. The author of this utility assumes full responsibility for its content and functionality. Any issues, bugs, or feedback related to this utility should be directed to the author, and not to SKLauncher or its developers. Please use this utility at your own discretion and risk. The author is not responsible for any damages or losses that may arise from the use of this utility.
 
