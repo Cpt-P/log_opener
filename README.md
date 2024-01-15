@@ -1,7 +1,7 @@
 ![icon](icons/icon.png)
 
 [![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red)](https://github.com/Cpt-P/log_opener)
-[![Coded in Python](https://img.shields.io/badge/Coded%20in-Python-3670A0&logo=python)](https://www.python.org/)
+[![Coded in Python](https://img.shields.io/badge/Coded%20in-Python-3670A0?logo=python)](https://www.python.org/)
 [![Coded in Batch](https://img.shields.io/badge/Coded%20in-Batch-brightgreen&logo=batch)](https://en.wikipedia.org/wiki/Batch_file)
 ![Safe to Use](https://img.shields.io/badge/Safe%20to%20Use-Yes-brightgreen)
 
