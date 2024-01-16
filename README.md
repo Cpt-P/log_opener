@@ -2,7 +2,7 @@
 
 [![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge)](https://github.com/Cpt-P/log_opener)
 [![Buy Us a Coffee](https://img.shields.io/badge/Buy_Us_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/intosinss)
-![Downloads](https://img.shields.io/github/license/Cpt-P/log_opener.svg)
+![Downloads](https://img.shields.io/github/license/Cpt-P/log_opener.svg?style=for-the-badge)
 [![Coded in Python](https://img.shields.io/badge/Coded%20in-Python-3670A0?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Coded in Batch](https://img.shields.io/badge/Coded%20in-Batch-brightgreen?style=for-the-badge)](https://en.wikipedia.org/wiki/Batch_file)
 [![Coded in Java](https://img.shields.io/badge/Coded%20in-Java-5382a1?style=for-the-badge&logo=openjdk)](https://www.java.com/)
