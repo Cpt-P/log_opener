@@ -3,6 +3,8 @@
 [![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red)](https://github.com/Cpt-P/log_opener)
 [![Coded in Python](https://img.shields.io/badge/Coded%20in-Python-3670A0?logo=python)](https://www.python.org/)
 [![Coded in Batch](https://img.shields.io/badge/Coded%20in-Batch-brightgreen&logo=batch)](https://en.wikipedia.org/wiki/Batch_file)
+[![Coded in Java](https://img.shields.io/badge/Coded%20in-Java-5382a1?logo=java)](https://www.java.com/)
+[![Coded in C++](https://img.shields.io/badge/Coded%20in-C%2B%2B-00599C?logo=cplusplus)](https://isocpp.org/)
 
 ## log_opener
 
