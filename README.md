@@ -5,7 +5,7 @@
 ![Downloads](https://img.shields.io/github/license/Cpt-P/log_opener.svg?style=for-the-badge)
 [![Coded in Python](https://img.shields.io/badge/Coded%20in-Python-3670A0?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Coded in Batch](https://img.shields.io/badge/Coded%20in-Batch-brightgreen?style=for-the-badge)](https://en.wikipedia.org/wiki/Batch_file)
-[![Coded in Java](https://img.shields.io/badge/Coded%20in-Java-5382a1?style=for-the-badge&logo=openjdk)](https://www.java.com/)
+[![Coded in Java](https://img.shields.io/badge/Coded%20in-Java-e76f00?style=for-the-badge&logo=openjdk)](https://www.java.com/)
 [![Coded in C++](https://img.shields.io/badge/Coded%20in-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus)](https://isocpp.org/)
 
 ## log_opener
